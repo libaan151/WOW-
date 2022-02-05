@@ -28,7 +28,7 @@ FOV_CIRCLE.Position = Vector2.new(Camera.ViewportSize.X / 2, Camera.ViewportSize
 
 Options = {
 	Head = "HumanoidRootPart";
-	Torso = "Head";
+	UpperTorso = "Head";
 }
 
 local function MoveFovCircle()
