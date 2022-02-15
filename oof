@@ -26,7 +26,8 @@ FOV_CIRCLE.Color = Color3.new(0, 1, 0)
 FOV_CIRCLE.Radius = _G.FOV
 FOV_CIRCLE.Position = Vector2.new(Camera.ViewportSize.X / 2, Camera.ViewportSize.Y / 2)
 
-Options = {"Head", "HumanoidRootPart", "Lowertorso"},
+Options = {
+	Head", "HumanoidRootPart", "Lowertorso"},
 	
 	
 }
